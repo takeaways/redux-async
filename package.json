@@ -1,6 +1,6 @@
 {
   "name": "@takeaways/redux-async",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "async request with redux",
   "main": "dist/index.js",
   "scripts": {

@@ -11,7 +11,7 @@ npm install @takeaways/redux-async
 
 Any return value from the inner function will be available as the return value
 of `dispatch` itself. This is convenient for orchestrating an asynchronous
-control flow with thunk action creators dispatching each other and returning
+control flow with async action creators dispatching each other and returning
 Promises to wait for each other’s completion:
 
 ```js
