@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",                              
+    "module": "es2015",                         
+    "strict": true,      
+    "outDir": "dist", 
+    "moduleResolution":"Node",                          
+    "noUnusedLocals": true,                      
+    "noUnusedParameters": true,                  
+    "noImplicitReturns": true,                   
+    "noFallthroughCasesInSwitch": true,          
+    "noUncheckedIndexedAccess": true,            
+    "noImplicitOverride": true,                  
+    "noPropertyAccessFromIndexSignature": true,  
+    "esModuleInterop": true,                        
+    "skipLibCheck": true,                           
+    "forceConsistentCasingInFileNames": true       
+  }
+}
